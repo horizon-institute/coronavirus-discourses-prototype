@@ -1,0 +1,16 @@
+{
+    "tokens": ["(BAME|bame)",
+                "(B|b)lack(s?)",
+                "(A|a)sian(s?)",
+                "(M|m)inorit(y|ies)",
+                "(V|v)accin(e|es|ation|ations|ated)",
+                "(S|s)hot(s?)",
+                "(J|j)ab(s?)",
+                "(I|i)mmun(ity|ised|isation)",
+                "(D|d)ose(s?)",
+                "(C|c)ommunit(y|ies)",
+                "(H|h)op(e|es|ing)",
+                "(S|s)afe(ty)?"],
+    "window": [5,5],
+    "save-concordance-lines": true
+}

@@ -1,0 +1,10 @@
+Syntax:
+
+Simplest way: CollocateAnalysis.exe inputfile.txt configurationfile.json
+This will save the output in an automatically named Excel file
+
+CollocateAnalysis.exe inputfile.txt configurationfile.json --output outputfilename.xlsx
+This will save the output in a file named outputfilename.xlsx
+
+CollocateAnalysis.exe inputfile.txt configurationfile.json --verbose
+This will output messages to inform you on the progress of the analysis
